@@ -1,12 +1,7 @@
 RewriteEngine On
+RewriteBase /
 
-# Check if the requested file does not exist
-RewriteCond %{REQUEST_FILENAME} !-f
-# Check if the requested file does not end with .php
-RewriteCond %{REQUEST_URI} !\.php$
-# Rewrite the URL to append .php
-RewriteRule ^(.*)$ $1.php [L]
-
-# Redirect requests with .php extension to the extensionless URL
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule ^(.+)\.php$ /$1 [R=301,L]
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
