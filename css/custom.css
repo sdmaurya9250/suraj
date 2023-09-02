@@ -1,0 +1,19 @@
+.head h3{
+    text-align: center;
+    color: #4543d0;
+    font-family: inherit;
+    font-size: 18px;
+    line-height: 1.5;
+    /* text-transform: tr; */
+    font-weight: 700;
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.content-side-heading{
+    color: #4543d0;
+}
+.company-logo{
+   width: 20%;
+}

@@ -66,22 +66,23 @@ include_once('header-page.php');
                             
                             <div class="col-xs-12 col-sm-12 col-md-6">
 								<div class="right-box">
-                                    <!-- H3 heading -->
-                                    <h4>Welcome to Digitalcotech</h4>
-
-                                    <!-- Paragraph -->
-                                    <p>
-                                    At Digitalcotech, we are more than just a website and design service provider; we are your partners in turning your digital dreams into reality. With a relentless passion for creativity and a commitment to excellence, we have been crafting remarkable online experiences and captivating designs for businesses and individuals alike.
-                                    </p>
-                                
-                                    
-                                    <!-- name -->
-                                    <div class="name">Suraj Gupta
+                                    <div class="head">
+                                        <h3>Welcome to Digitalcotech</h3>
                                     </div>
+                                    <!-- H3 heading -->
+                                 
+                                    
+                                    <p><strong>Digitalcotech</strong> a web and mobile app development company based in Mumbai, India, was founded with a vision to meet clients' needs while delivering high-quality work, remaining competitive, and achieving exponential business growth. We recognize the uniqueness of each client and are committed to providing affordable proposals tailored to their requirements, ensuring exceptional delivery within specified timeframes and budget constraints.</p>
+                                
+                                    <p>At Digitalcotech, we are more than just a website and design service provider; we are your partners in turning your digital dreams into reality. With a relentless passion for creativity and a commitment to excellence, we have crafted remarkable online experiences and captivating designs for businesses and individuals alike.
+                                    </p>
+                                    <!-- name -->
+                                    <!-- <div class="name">Suraj Gupta
+                                    </div> -->
                                     
                                     <!-- designation -->
-                                    <div class="designation">Founder & CEO
-                                    </div>
+                                    <!-- <div class="designation">Founder & CEO
+                                    </div> -->
 								</div>
 
                             </div>
@@ -113,9 +114,10 @@ include_once('header-page.php');
 
         <!-- Bootstrap -->
         <div class="container">
-            <div class="row">
+            <div class="row" style="margin-top: -5%;">
             	<!-- H1 Heading -->
-                    <h1>Why choose us ?</h1>
+
+                    <h3>Why choose us ?</h3>
 
                         
                 <div class="col-xs-12">
@@ -125,20 +127,11 @@ include_once('header-page.php');
 
                         <!-- Tabs content -->   <!-- Tab 1 -->
                         <div class="site-tabs-content" id="tab-1">
-                        	<div class="col-xs-12 col-md-6">
-                                
+                            <div class="col-xs-12 col-md-6">
                                 <br><br>
-                               
-                                    <p><strong>Expertise - </strong>Our team comprises seasoned professionals with a proven track record in web design and development. We bring the best minds together to ensure your project's success.</p>
-                                
-
-                                  
-                                    <p><strong>Innovation - </strong>Your satisfaction is paramount. We keep communication channels open, involve you at every stage, and remain flexible to your needs, ensuring a collaborative and enjoyable journey.</p></p>
-                                
-
-                                    
-                                    <p><strong>Successful planning - </strong>We measure our success by the results we achieve for you. From increased engagement to higher conversion rates, we're committed to driving tangible outcomes.</p>
-                                
+                                <p><strong class="content-side-heading">Expertise - </strong>Our team comprises seasoned professionals with a proven track record in web design and development. We bring the best minds together to ensure your project's success.</p>
+                                <p><strong class="content-side-heading">Innovation - </strong>Your satisfaction is paramount. We keep communication channels open, involve you at every stage, and remain flexible to your needs, ensuring a collaborative and enjoyable journey.</p>
+                                <p><strong class="content-side-heading">Successful planning - </strong>We measure our success by the results we achieve for you. From increased engagement to higher conversion rates, we're committed to driving tangible outcomes.</p>
                             </div>
                             
                             <br><br>

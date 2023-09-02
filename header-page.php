@@ -5,13 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="One Page Corporate HTML Template">
-    <meta name="author" content="">
+    <meta name="description" content="Digitalcotech - Website Design and Development">
+    <meta name="author" content="Digitalcotech">
     <link rel="icon" href="images/favicon.ico">
 
     <!-- Title -->
-    <title>Corbiz - Multipurpose Business Consulting HTML template</title>
-
+    <title>Digitalcotech - Website Design and Development</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="image/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="image/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="image/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="image/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="image/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="image/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="image/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="image/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="image/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="image/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="image/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="image/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="image/favicon-16x16.png">
     <!-- Necessary CSS Files -->
     <link href="css/bootstrap.min.css" rel="stylesheet">            									<!-- Bootstrap CSS Only GRID -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -20,6 +32,7 @@
     <link rel="stylesheet" href="css/swiper.min.css">               									<!-- Swiper slider -->
     <link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css">   									<!-- Video background -->
     <link rel="stylesheet" href="css/template.css">                 									<!-- Template CSS -->
+    <link rel="stylesheet" href="css/custom.css">                 									<!-- Template CSS -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -97,11 +110,16 @@
                     <!-- Logo -->
                     <div class="site-logo">
                         <!-- Link -->
+                        <div class="company-logo">
                         <a href="index.php">
-                            <!-- Logo Image -->
-                            <img src="images/logo-icon.png" alt="Logo">
+                            <img src="image/logo.png" alt="Logo">
                         </a>
+                        <span class="content-side-headings">Company Name</span>
+                        </div>
+                        
+                      
                     </div>
+
                     <!-- End logo -->
 
                     <!-- Navigation Toggle Button -->
@@ -116,10 +134,10 @@
                     <nav class="site-nav">
                         <ul>
                             <!-- Active Item (Use the active class) -->
-                            <li class="active"><a href="index.php">Home</a></li>
-                            <li><a href="about-us.php">About us</a></li>
-                            <li><a href="services-1.php">Services</a></li>
-                            <li><a href="contact-us.php">contact us</a></li>
+                            <li class="active"><a href="/">Home</a></li>
+                            <li><a href="about-us">About us</a></li>
+                            <li><a href="services">Services</a></li>
+                            <li><a href="contact-us">contact us</a></li>
                         </ul>
                     </nav>
                     <!-- End Navigation -->

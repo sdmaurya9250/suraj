@@ -49,14 +49,14 @@ include_once('header-page.php');
                 <div class="col-xs-12">
 
                     <!-- H3 Heading -->
-                    <h3>What we offer</h3>
+                    <h3>Our Services</h3>
 
                     <!-- Paragraph -->
                     <div class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 center-text">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scra</p>
+                    <p>We offer comprehensive website design and development services, crafting visually appealing, user-friendly sites. Our expertise extends to custom application development, delivering innovative solutions tailored to your unique needs. With a skilled team, cutting-edge technologies, and a commitment to excellence, we transform your digital vision into reality.</p>
 					</div>
                     
-                    <div class="row">
+                    <d--iv class="row">-
                         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
     
                                 <!-- Site box -->
@@ -67,12 +67,10 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Consultancy</a></h4>
+                                        <h4><a href="#">Website Development</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>Creating responsive, user-friendly websites for optimal online presence and engagement.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">
@@ -97,12 +95,10 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Financial planning</a></h4>
+                                        <h4><a href="#">Responsive UI & UX</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>Crafting interfaces that adapt seamlessly to devices, ensuring a user-friendly experience, aligning with business goals.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">
@@ -131,12 +127,10 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Business research</a></h4>
+                                        <h4><a href="#">Digital Marketing</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>Creating effective online campaigns to grow brand presence and engage customers for lasting success.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">
@@ -165,12 +159,11 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Consultancy</a></h4>
+                                        <h4><a href="#">Application Development</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>
+                                            Creating user-friendly mobile apps with engaging designs for a seamless experience is our expertise.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">
@@ -199,12 +192,10 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Consultancy</a></h4>
+                                        <h4><a href="#">QA & Testing</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>Effective QA & testing guarantee software performs flawlessly, ensuring user satisfaction.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">
@@ -230,12 +221,10 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Consultancy</a></h4>
+                                        <h4><a href="#">Ecommerce Development</a></h4>
         
                                         <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy of theti
-                                            ngand typeseing industry Lorem Ipsum
-                                            been industry Lorem Ipsum.</p>
+                                        <p>Create tailored online stores for B2B, B2C, C2C, and C2B markets with our E-commerce Development.</p>
         
                                         <!-- Read more -->
                                         <a class="site-permalink" href="#">

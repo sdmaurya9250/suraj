@@ -24,11 +24,7 @@
                 <div class="clearfix"></div>
 
                 <!-- Paragraph -->
-                <p>Lorem Ipsum is simply dummy text of the print
-                    ing and typing indus try Lorem Ipsum has een the indus try's standard dummy text Loremsim
-                    ply dummy text of the printing and typeseing industryLorem Ipsum isindustryLorem Ipsum is  ply dummy text of the printing and typeseing industryLorem Ipsum is simply.</p>
-                    
-
+               <p>Digitalcotech, a Mumbai-based web and mobile app development company, thrives on client-centricity, delivering top-notch solutions while maintaining cost-efficiency and sustainable growth. Our bespoke proposals cater to individual needs, ensuring timely and budget-friendly excellence.</p>
             </div>
             <!-- End widget -->
 
@@ -43,11 +39,9 @@
 
                 <!-- Links -->
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Case studies</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-us">About us</a></li>
+                    <li><a href="services">Services</a></li>
                     <li><a href="#">Contact us</a></li>
                 </ul>
 
@@ -103,12 +97,11 @@
 
                 <!-- Links -->
                 <ul>
-                    <li><a href="#">Consultancy</a></li>
-                    <li><a href="#">Finance</a></li>
-                    <li><a href="#">Advertising</a></li>
-                    <li><a href="#">Business Planing</a></li>
-                    <li><a href="#">Marketing</a></li>
-                    <li><a href="#">Creative ideas</a></li>
+                    <li><a href="services">Website Development</a></li>
+                    <li><a href="services">Responsive UI & UX</a></li>
+                    <li><a href="services">Digital Marketing</a></li>
+                    <li><a href="services">QA & Testing</a></li>
+                    <li><a href="services">App Development</a></li>
                 </ul>
 
             </div>
@@ -125,9 +118,7 @@
                 <h3>Subscribe us</h3>
                 
                 <!-- Paragraph -->
-                <p>Lorem Ipsum is simply dummy text of the print
-                    ing and typing indus try Lorem Ipsum has een the indus try's standard dummy text Loremsim
-                    ply dummy text of the printing and.</p>
+                <p>Subscribe to discover our comprehensive services for website design, development, and application development for your company's digital success. Join us today.</p>
                 
                 <!-- Subscribe -->
                 <form method="post" action="#" class="site-subscribe">
@@ -147,7 +138,7 @@
 
             <!-- Copyright -->
             <div class="site-copyright">
-                <a target="_blank" href="https://templateshub.net">Templates Hub</a>
+                <a target="_blank" href="https://digitalcotech.com">Digitalcotech</a>
             </div>
 
         </div>
