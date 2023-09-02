@@ -10,7 +10,7 @@
                 <li class="sequence-slide">
 
                     <!-- Background Image -->
-                    <div class="sequence-bg" style="background-image: url(images/slider-bg-image-1.jpg)"></div>
+                    <div class="sequence-bg" style="background-image: url(images/slider-bg-image-3.jpg)"></div>
 
                     <!-- Caption -->
                     <div class="sequence-caption">
@@ -21,7 +21,7 @@
                                 <div class="col-xs-12">
 
                                     <!-- H2 heading -->
-                                    <h2>We are Corbiz, we help you to</h2>
+                                    <h2>We are Digitalcotech, we help you to</h2>
                                     <!-- H1 Heading -->
                                     <h1>Grow your business</h1>
                                     <!-- Paragraph -->
@@ -89,9 +89,9 @@
 
                 </li>
                 <li class="sequence-slide">
-
+                
                     <!-- Background Image -->
-                    <div class="sequence-bg" style="background-image: url(images/slider-bg-image-3.jpg)"></div>
+                    <div class="sequence-bg" style="background-image: url(img/1.jpg)"></div>
 
                     <!-- Caption -->
                     <div class="sequence-caption">
@@ -102,7 +102,7 @@
                                 <div class="col-xs-12">
 
                                     <!-- H2 heading -->
-                                    <h2>We are corbiz</h2>
+                                    <h2>We are Digitalcotech</h2>
                                     <!-- H1 Heading -->
                                     <h1>we build your business</h1>
                                     <!-- Paragraph -->

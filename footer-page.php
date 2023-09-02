@@ -140,11 +140,9 @@
 
             <!-- Social Icons -->
             <div class="site-social-icons">
-                <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
-                <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-                <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
-                <a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
-                <a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+                <a target="_blank" href="https://www.facebook.com/people/Digitalcotech/100088403738077/?is_tour_completed=true"><i class="fa fa-facebook"></i></a>
+                <a target="_blank" href="https://www.instagram.com/digitalcotech/"><i class="fa fa-instagram"></i></a>
+                <a target="_blank" href="https://www.youtube.com/@digitalcotech/videos"><i class="fa fa-youtube"></i></a>
             </div>
 
         </div>
