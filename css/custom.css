@@ -13,7 +13,15 @@
 
 .content-side-heading{
     color: #4543d0;
+    position: relative;
 }
 .company-logo{
    width: 20%;
+}
+
+.company-name-headings{
+    position: absolute;
+    top: -28%;
+    left: 28%;
+    color: #4543d0;
 }

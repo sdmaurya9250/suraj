@@ -110,15 +110,17 @@
                     <!-- Logo -->
                     <div class="site-logo">
                         <!-- Link -->
-                        <div class="company-logo">
-                        <a href="index.php">
-                            <img src="image/logo.png" alt="Logo">
-                        </a>
-                        <span class="content-side-headings">Company Name</span>
+                        <div class="company-logo" style="float: left;">
+                            <a href="index.php">
+                                <img src="image/logo.png" alt="Logo">
+                            </a>
                         </div>
-                        
-                      
+                        <div class="company-name-headings" style="float: right;">
+                            <h3>Digitalcotech</h3>
+                        </div>
+                        <div style="clear: both;"></div> <!-- Clear floats to prevent layout issues -->
                     </div>
+                    
 
                     <!-- End logo -->
 

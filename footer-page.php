@@ -9,15 +9,9 @@
             <!-- Widget -->
             <div class="widget">
 
-                <!-- Logo -->
-                <div class="site-logo">
-                    <!-- Link -->
-                    <a href="index.php">
-                        <!-- Logo Image -->
-                        <img src="images/footer-logo.png" alt="Logo">
+                        <h3>Digitalcotech</h3>
                         
-                    </a>
-                </div>
+          
                 <!-- End logo -->
 
                 <!-- Clearfix -->
@@ -35,7 +29,7 @@
             <div class="widget">
 
                 <!-- H3 heading -->
-                <h3>The company</h3>
+                <h3>Pages</h3>
 
                 <!-- Links -->
                 <ul>

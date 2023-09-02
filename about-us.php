@@ -20,7 +20,7 @@ include_once('header-page.php');
                     <!-- H2 heading -->
                     <h2>About us</h2>
                     <!-- H1 Heading -->
-                    <h1>We are Corbiz</h1>
+                    <h1>We are Digitalcotech</h1>
                     <!-- Bredcum links -->
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
@@ -28,9 +28,6 @@ include_once('header-page.php');
                             	<li> <a href="index.php">Home » </a> </li>
                                 <li>About us</li>
                             </ul>
-                            <p>
-                               Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy.
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -68,21 +65,12 @@ include_once('header-page.php');
 								<div class="right-box">
                                     <div class="head">
                                         <h3>Welcome to Digitalcotech</h3>
-                                    </div>
-                                    <!-- H3 heading -->
-                                 
-                                    
+                                    </div>      
                                     <p><strong>Digitalcotech</strong> a web and mobile app development company based in Mumbai, India, was founded with a vision to meet clients' needs while delivering high-quality work, remaining competitive, and achieving exponential business growth. We recognize the uniqueness of each client and are committed to providing affordable proposals tailored to their requirements, ensuring exceptional delivery within specified timeframes and budget constraints.</p>
                                 
                                     <p>At Digitalcotech, we are more than just a website and design service provider; we are your partners in turning your digital dreams into reality. With a relentless passion for creativity and a commitment to excellence, we have crafted remarkable online experiences and captivating designs for businesses and individuals alike.
                                     </p>
-                                    <!-- name -->
-                                    <!-- <div class="name">Suraj Gupta
-                                    </div> -->
-                                    
-                                    <!-- designation -->
-                                    <!-- <div class="designation">Founder & CEO
-                                    </div> -->
+                             
 								</div>
 
                             </div>
@@ -121,27 +109,28 @@ include_once('header-page.php');
 
                         
                 <div class="col-xs-12">
-                    <!-- Tabs wrapper -->
-                    <div class="site-tabs-wrapper" id="site-tabs-1">
-
-
-                        <!-- Tabs content -->   <!-- Tab 1 -->
-                        <div class="site-tabs-content" id="tab-1">
-                            <div class="col-xs-12 col-md-6">
-                                <br><br>
-                                <p><strong class="content-side-heading">Expertise - </strong>Our team comprises seasoned professionals with a proven track record in web design and development. We bring the best minds together to ensure your project's success.</p>
-                                <p><strong class="content-side-heading">Innovation - </strong>Your satisfaction is paramount. We keep communication channels open, involve you at every stage, and remain flexible to your needs, ensuring a collaborative and enjoyable journey.</p>
-                                <p><strong class="content-side-heading">Successful planning - </strong>We measure our success by the results we achieve for you. From increased engagement to higher conversion rates, we're committed to driving tangible outcomes.</p>
-                            </div>
-                            
-                            <br><br>
-                            <div class="site-tab-bg tab-bg-1 active" style="background-image: url(images/tabs-bg-3.png)"></div>
-                            </div>
-                            
+                    <div class="site-tabs-wrapper">
+                        <div class="col-md-6 p-5 m-5">
+                            <br> <br>
+                            <p><strong class="content-side-heading">Expertise - </strong>Our team comprises seasoned professionals with
+                                a proven track record in web design and development. We bring the best minds together to ensure your
+                                project's success.</p>
+                            <p><strong class="content-side-heading">Innovation - </strong>Your satisfaction is paramount. We keep
+                                communication channels open, involve you at every stage, and remain flexible to your needs, ensuring a
+                                collaborative and enjoyable journey.</p>
+                            <p><strong class="content-side-heading">Successful planning - </strong>We measure our success by the results
+                                we achieve for you. From increased engagement to higher conversion rates, we're committed to driving
+                                tangible outcomes.</p>
                         </div>
-
-                        
+                        <div class="col-md-6 p-5 m-5">
+                            <br>
+                            <img src="images/service-detail-page-banner.jpg" alt="Digitalcotech - Why we choose us">
+                        </div>
                     </div>
+                
+                
+                
+                </div>
                     <!-- End Tabs -->
 
                 </div>
