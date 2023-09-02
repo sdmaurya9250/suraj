@@ -137,9 +137,9 @@
                         <ul>
                             <!-- Active Item (Use the active class) -->
                             <li class="active"><a href="/">Home</a></li>
-                            <li><a href="about-us">About us</a></li>
-                            <li><a href="services">Services</a></li>
-                            <li><a href="contact-us">contact us</a></li>
+                            <li><a href="about-us.php">About us</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="contact-us.php">contact us</a></li>
                         </ul>
                     </nav>
                     <!-- End Navigation -->
