@@ -812,9 +812,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-offset-2">
 
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy text of therinting and typeseing
-                                industry Lorem sum haseen the industry's standard dummy
-                                text ever since the when aning.</p>
+                            <p>Digitalcotech, a Mumbai-based web and mobile app development company, thrives on client-centricity, delivering top-notch solutions while maintaining cost-efficiency and sustainable growth. Our bespoke proposals cater to individual needs, ensuring timely and budget-friendly excellence.</p>
 
                         </div>
                         <div class="col-xs-12">
