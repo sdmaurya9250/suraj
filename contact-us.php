@@ -89,7 +89,7 @@ include_once('header-page.php');
                     <!-- Site box -->
 					<div class="site-box">
                     	<!-- H3 Heading -->
-	                    <h3>New York Office</h3>
+	                    <h3>Mumbai</h3>
                         <!-- 3 colom -->
 						<div class="inner">
                         
@@ -102,7 +102,7 @@ include_once('header-page.php');
             	                    <h4> Location </h4>
 								</div>
                                 <a class="adress" target="_blank" href="#">
-                                   158 Corporate avenue, South pol New York, USA
+                                  Chembur Mumbai 
                                 </a>
                             </div>
                             
@@ -115,9 +115,9 @@ include_once('header-page.php');
                                     <h4> Call us </h4>
                                 </div>
                                 <div class="clearfix"> </div>
-                                <a class="call"  href="tel:19876543213">+1 987 654 3213</a>
-                                <div class="clearfix"> </div>
-                                <a class="call"  href="tel:19876543213">+1 123 456 7890</a>
+                                <a class="call"  href="tel:9834643729">+91 9834643729</a>
+                                <!-- <div class="clearfix"> </div>
+                                <a class="call"  href="tel:19876543213">+1 123 456 7890</a> -->
                             </div>
                             
                             <!-- email -->
@@ -129,9 +129,7 @@ include_once('header-page.php');
             	                    <h4> Email us </h4>
 								</div>
                                 <div class="clearfix"> </div>
-                                <a class="email" href="mailto:contact@corbiz.com">contact@corbiz.com</a>
-                                <div class="clearfix"> </div>
-                                <a class="email" href="mailto:info@corbiz.com">info@corbiz.com</a>
+                                <a class="email" href="mailto:contact.digitalcotech@gmail.com">contact.digitalcotech@gmail.com</a>
                             </div>
                             
                     	</div>

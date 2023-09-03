@@ -57,12 +57,11 @@
                     <!-- Left section -->
                     <div class="site-top-bar-left-section">
 
-                        <!-- Link -->
-                        <a>
-                            <!-- Font awesome icon -->
-                            <i class="fa fa-clock-o"></i>
+                    <a href="tel:+919834643729">
+                            <!-- Icon -->
+                            <i class="fa fa-phone"></i>
                             <!-- Text -->
-                            <span>Mon to Sat : 08:00 - 15:30</span>
+                            <span>9834643729</span>
                         </a>
 
                     </div>
@@ -73,19 +72,14 @@
                     <div class="site-top-bar-right-section">
 
                         <!-- Link -->
-                        <a href="tel:+1801454587">
-                            <!-- Icon -->
-                            <i class="fa fa-phone"></i>
-                            <!-- Text -->
-                            <span>+1 801 4545 87</span>
-                        </a>
+                       
 
                         <!-- Link -->
-                        <a href="mailto:contact@gmail.com">
+                        <a href="mailto:contact.digitalcotech@gmail.com">
                             <!-- Icon -->
                             <i class="fa fa-envelope"></i>
                             <!-- Text -->
-                            <span>contact@gmail.com</span>
+                            <span>contact.digitalcotech@gmail.com</span>
                         </a>
 
                     </div>
@@ -138,7 +132,7 @@
                             <!-- Active Item (Use the active class) -->
                             <li class="active"><a href="/">Home</a></li>
                             <li><a href="about-us.php">About us</a></li>
-                            <li><a href="services.php">Services</a></li>
+                            <li><a href="service.php">Services</a></li>
                             <li><a href="contact-us.php">contact us</a></li>
                         </ul>
                     </nav>
