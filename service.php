@@ -67,13 +67,13 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Website Development</a></h4>
+                                        <h4><a href="web-development.php">Website Development</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>Creating responsive, user-friendly websites for optimal online presence and engagement.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="web-development.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
@@ -95,13 +95,13 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Responsive UI & UX</a></h4>
+                                        <h4><a href="ui-ux.php">Responsive UI & UX</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>Crafting interfaces that adapt seamlessly to devices, ensuring a user-friendly experience, aligning with business goals.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="ui-ux.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
@@ -127,13 +127,13 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Digital Marketing</a></h4>
+                                        <h4><a href="digital-marketing.php">Digital Marketing</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>Creating effective online campaigns to grow brand presence and engage customers for lasting success.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="digital-marketing.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
@@ -159,14 +159,14 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Application Development</a></h4>
+                                        <h4><a href="app-development.php">Application Development</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>
                                             Creating user-friendly mobile apps with engaging designs for a seamless experience is our expertise.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="app-development.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
@@ -192,13 +192,13 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">QA & Testing</a></h4>
+                                        <h4><a href="qa-testing.php">QA & Testing</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>Effective QA & testing guarantee software performs flawlessly, ensuring user satisfaction.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="qa-testing.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
@@ -221,13 +221,13 @@ include_once('header-page.php');
     
                                     <div class="content">
                                         <!-- H4 heading -->
-                                        <h4><a href="#">Ecommerce Development</a></h4>
+                                        <h4><a href="ecommerce.php">Ecommerce Development</a></h4>
         
                                         <!-- Paragraph -->
                                         <p>Create tailored online stores for B2B, B2C, C2C, and C2B markets with our E-commerce Development.</p>
         
                                         <!-- Read more -->
-                                        <a class="site-permalink" href="#">
+                                        <a class="site-permalink" href="ecommerce.php">
                                             <span>MORE</span>
                                             <i class="icon-service-arrow"></i>
                                         </a>
