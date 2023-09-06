@@ -1,8 +1,5 @@
 <?php
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
 
-require './vendor/autoload.php';
 
 $servername = "localhost";
 $username = "root";
