@@ -142,7 +142,7 @@ include_once('header-page.php');
                                 <h4>Drop a message us</h4>
                                 <!-- Contact form -->
                                                                     <!-- Contact form -->
-                                        <form action="send.php" method="post" id="contactForm" class="site-contact-form">
+                                        <form action="send.php" method="post" id="contactForms" class="site-contact-forms">
                                         <!-- Name -->
                                         <label><input type="text" name="yname" placeholder="Name" required="required"></label>
                                         <!-- Email -->
