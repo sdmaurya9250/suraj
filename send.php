@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Digitalcotech@12345";
 $database = "digitech";
 
 // Create connection
@@ -17,6 +17,8 @@ if ($conn->connect_error) {
 
 
 if(isset($_POST['submit'])) {
+    session_start();
+
     $name = $_POST['yname']; 
     $email = $_POST['yemail']; 
     $subject = $_POST['ysubject']; 
@@ -33,10 +35,10 @@ if(isset($_POST['submit'])) {
         $query = mysqli_query($conn, $insertQuery);
 
         if ($query) {
-            echo "Data inserted successfully!";
+            $_SESSION['success_message'] = "Admin will contact you soon.";
             header("Location: index.php");
         } else {
-            echo "Error: " . mysqli_error($con); // Display error message if query fails
+            echo "Error: " . mysqli_error($conn); // Display error message if query fails
         }
     } catch (Exception $e) {
       echo "Error: " . mysqli_error($con); // Display error message if query fails

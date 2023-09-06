@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,3 +148,12 @@
 
     </header>
     <!-- End Header -->
+    <?php
+
+
+
+if (isset($_SESSION['success_message'])) {
+    echo '<script>alert("' . $_SESSION['success_message'] . '");</script>';
+    unset($_SESSION['success_message']); // Remove the session message to prevent it from showing again
+}
+?>
