@@ -351,7 +351,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service1.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/webdevelopment.jpg" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->
@@ -379,7 +379,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service2.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/UIUX.jpg" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->
@@ -411,7 +411,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service3.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/DigitalMarketingLanding.jpg" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->
@@ -443,7 +443,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service4.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/Mobile-Development.png" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->
@@ -475,7 +475,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service5.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/software.jpg" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->
@@ -505,7 +505,7 @@
                         <div class="site-box">
 
                             <!-- image -->
-                            <div class="service-image"> <img src="images/service6.jpg" alt="image"> </div>
+                            <div class="service-image"> <img src="images/ecommerce1.jpg" alt="image"> </div>
 
                             <div class="content">
                                 <!-- H3 heading -->

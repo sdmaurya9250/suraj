@@ -5,7 +5,7 @@ include_once('header-page.php');
 <section class="slider_section ">
   <div class="container ">
       <div class="row">
-        <div class="card mx-auto">
+        <div class="col-md-8 mx-auto">
                 <div class="card-body">
                     <h2 class="card- text-center  ">What is Ecommerce?</h2>
                     <p class="card-text  text-muted font-italic text-center"> 
