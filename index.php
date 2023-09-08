@@ -33,8 +33,7 @@
                                     </div>
                                 </div>
                                 <!-- Button -->
-                                <a href="#" class="theme-btn color-btn">Contact us</a>
-                                <a href="#" class="theme-btn">Purchase now</a>
+                                <a href="/contact-us.php" class="theme-btn color-btn">Contact us</a>
 
                             </div>
                         </div>
@@ -71,8 +70,7 @@
                                     </div>
                                 </div>
                                 <!-- Button -->
-                                <a href="#" class="theme-btn">Contact us</a>
-                                <a href="#" class="theme-btn">Purchase now</a>
+                                <a href="/contact-us.php" class="theme-btn">Contact us</a>
 
                             </div>
                         </div>
@@ -110,8 +108,7 @@
                                     </div>
                                 </div>
                                 <!-- Button -->
-                                <a href="#" class="theme-btn">Contact us</a>
-                                <a href="#" class="theme-btn">Purchase now</a>
+                                <a href="/contact-us.php" class="theme-btn">Contact us</a>
 
                             </div>
                         </div>
