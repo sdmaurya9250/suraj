@@ -40,7 +40,8 @@ if(isset($_POST['submit'])) {
             $_SESSION['success_message'] = "Thanks for connecting! We will get back to you soon.";
             header("Location: index.php");
         } else {
-            echo "Error: " . mysqli_error($conn); // Display error message if query fails
+            $_SESSION['error_message'] = "'Sorry, something went wrong. Please try again later.";
+            header("Location: index.php");
         }
     } catch (Exception $e) {
         $_SESSION['error_message'] = "'Sorry, something went wrong. Please try again later.";
