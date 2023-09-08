@@ -25,3 +25,13 @@
     left: 28%;
     color: #4543d0;
 }
+
+@media screen and (max-width: 767px){
+  
+    .site-main-slider .seq-next {
+        display: none;
+    }
+    .site-main-slider .seq-prev {
+        display: none;
+    }
+}
