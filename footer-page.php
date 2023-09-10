@@ -91,11 +91,11 @@
 
                 <!-- Links -->
                 <ul>
-                    <li><a href="services">Website Development</a></li>
-                    <li><a href="services">Responsive UI & UX</a></li>
-                    <li><a href="services">Digital Marketing</a></li>
-                    <li><a href="services">QA & Testing</a></li>
-                    <li><a href="services">App Development</a></li>
+                    <li><a href="/web-development.php">Website Development</a></li>
+                    <li><a href="/ecommerce.php">E-commerce</a></li>
+                    <li><a href="/digital-marketing.php">Digital Marketing</a></li>
+                    <li><a href="/qa-testing.php">QA & Testing</a></li>
+                    <li><a href="/app-development">App Development</a></li>
                 </ul>
 
             </div>
@@ -166,7 +166,7 @@
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-<script src="js/jquery.countimator.min.js"></script>        <!-- Counter -->
+<!-- <script src="js/jquery.countimator.min.js"></script>        -->
 <script src="js/jquery.sticky.min.js"></script>             <!-- Sticky Header -->
 <script src="js/swiper.jquery.min.js"></script>             <!-- Carousel Slider -->
 <script src="js/isotope.pkgd.min.js"></script>              <!-- Isotope -->
@@ -181,8 +181,8 @@
 <script src="js/jquery.mb.YTPlayer.min.js"></script>        <!-- Video background -->
 <script src="js/template.js"></script>                      <!-- Theme Options -->
 
-<script src="js/retina.js"></script>                      <!-- Retina js -->
-<script src="js/retina.min.js"></script>                  <!-- Retina js -->
+<!-- <script src="js/retina.js"></script>                      
+<script src="js/retina.min.js"></script>                   -->
 
 </body>
 

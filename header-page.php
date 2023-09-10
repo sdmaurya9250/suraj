@@ -108,12 +108,12 @@ session_start();
                     <div class="site-logo">
                         <!-- Link -->
                         <div class="company-logo" style="float: left;">
-                            <a href="index.php">
+                            <a href="/">
                                 <img src="image/logo.png" alt="Logo">
                             </a>
                         </div>
                         <div class="company-name-headings" style="float: right;">
-                            <h3>Digitalcotech</h3>
+                            <h3><a href="/">Digitalcotech</a></h3>
                         </div>
                         <div style="clear: both;"></div> <!-- Clear floats to prevent layout issues -->
                     </div>
@@ -155,5 +155,9 @@ session_start();
 if (isset($_SESSION['success_message'])) {
     echo '<script>alert("' . $_SESSION['success_message'] . '");</script>';
     unset($_SESSION['success_message']); // Remove the session message to prevent it from showing again
+}
+if (isset($_SESSION['error_message'])) {
+    echo '<script>alert("' . $_SESSION['error_message'] . '");</script>';
+    unset($_SESSION['error_message']); // Remove the session message to prevent it from showing again
 }
 ?>

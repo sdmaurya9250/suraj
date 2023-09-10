@@ -2,7 +2,7 @@
 include_once('header-page.php');
   ?>
 
-<section class="slider_section ">
+<section class="slider_section" style="margin: 5%;">
   <div class="container ">
       <div class="row">
         <div class="col-md-8 mx-auto">
