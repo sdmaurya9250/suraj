@@ -340,7 +340,7 @@
                 <h1>Our Services</h1>
 
                 <!-- H2 heading -->
-                <h2>From startup to reache<br>
+                <h2>From startup to reach<br>
                     high level success!</h2>
 
                 <!-- Bootstrap inner columns -->
@@ -562,7 +562,7 @@
                     <li data-filter="web-design">Web Design</li>
                     <li data-filter="web-development">Web Development</li>
                     <li data-filter="logo-design">Logo Design</li>
-                    <li data-filter="branding">Branding</li>
+                    <li data-filter="branding">App Developement</li>
                 </ul>
 
                 <!-- Bootstrap inner row -->
@@ -582,8 +582,13 @@
                                     <a class="venobox" href="images/portfolio-1.jpg" data-gall="myGallery">
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
-                                    <h5>Web Development</h5> <!-- heading -->
-                                    <h6>Sub Heading</h6> <!-- Sub heading -->
+                                     <a class="venobox" href="images/Mobile-Development.png" data-gall="myGallery">
+                                        <i class="fa fa-plus"></i> <!-- Icon -->
+                                    </a>
+                                     <a class="venobox" href="images/webdevelopment.jpg" data-gall="myGallery">
+                                        <i class="fa fa-plus"></i> <!-- Icon -->
+                                    </a>
+                                    <h5>Web Design</h5> <!-- heading -->
                                 </div>
                             </div>
                         </div>
@@ -599,8 +604,14 @@
                                     <a class="venobox" href="images/portfolio-2.jpg" data-gall="myGallery">
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
+                                    <a class="venobox" href="images/Mobile-Development.png" data-gall="myGallery">
+                                        <i class="fa fa-plus"></i> <!-- Icon -->
+                                    </a>
+                                     <a class="venobox" href="images/webdevelopment.jpg" data-gall="myGallery">
+                                        <i class="fa fa-plus"></i> <!-- Icon -->
+                                    </a>
                                     <h5>Web Development</h5> <!-- heading -->
-                                    <h6>Web Design</h6> <!-- Sub heading -->
+                                    <!-- <h6>Web Design</h6> Sub heading -->
                                 </div>
                             </div>
                         </div>
@@ -616,8 +627,8 @@
                                     <a class="venobox" href="images/portfolio-3.jpg" data-gall="myGallery">
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
-                                    <h5>Branding</h5> <!-- heading -->
-                                    <h6>Sub Heading</h6> <!-- Sub heading -->
+                                    <h5>Digital Maketing</h5> <!-- heading -->
+                                    <!-- <h6>Sub Heading</h6> Sub heading -->
                                 </div>
                             </div>
                         </div>
@@ -633,8 +644,8 @@
                                     <a class="venobox" href="images/portfolio-5.jpg" data-gall="myGallery">
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
-                                    <h5>Branding</h5> <!-- heading -->
-                                    <h6>Sub Heading</h6> <!-- Sub heading -->
+                                    <h5>E commerce</h5> <!-- heading -->
+                                    <!-- <h6>Sub Heading</h6> Sub heading -->
                                 </div>
                             </div>
                         </div>
@@ -651,7 +662,7 @@
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
                                     <h5>Logo Design</h5> <!-- heading -->
-                                    <h6>Sub Heading</h6> <!-- Sub heading -->
+                                    <!-- <h6>Sub Heading</h6> Sub heading -->
                                 </div>
                             </div>
                         </div>
@@ -668,7 +679,7 @@
                                         <i class="fa fa-plus"></i> <!-- Icon -->
                                     </a>
                                     <h5>Branding</h5> <!-- heading -->
-                                    <h6>Sub Heading</h6> <!-- Sub heading -->
+                                    <!-- <h6>Sub Heading</h6> Sub heading -->
                                 </div>
                             </div>
                         </div>
