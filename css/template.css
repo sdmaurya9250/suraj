@@ -7982,8 +7982,9 @@ box-shadow: 0px 10px 82px 4px rgba(151,170,180,0.24);
 
 .contact-section .site-google-map {
   /* google map container */
-  background: grey;
-  min-height: 684px;
+  /* background: grey; */
+  text-align: center;
+  min-height: 584px;
   position: relative;
   border-radius:0 6px 6px 0;
 }
@@ -7991,7 +7992,7 @@ box-shadow: 0px 10px 82px 4px rgba(151,170,180,0.24);
 
 @media screen and (max-width: 1199px) {
   .contact-section .site-google-map {
-	  min-height: 726px;
+	  min-height: 526px;
   }
 }
 

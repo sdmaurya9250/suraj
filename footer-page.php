@@ -173,7 +173,7 @@
 <script src="js/jquery.tabslet.min.js"></script>            <!-- Tabs -->
 <script src="js/tweetie.min.js"></script>                   <!-- Tweets -->
 <script src="js/jquery.scrollUp.min.js"></script>           <!-- Scroll up -->
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>   <!-- Google map -->
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>   Google map -->
 <script src="js/imagesloaded.pkgd.min.js"></script>         <!-- Header slider scripts -->
 <script src="js/hammer.min.js"></script>
 <script src="js/sequence.min.js"></script>

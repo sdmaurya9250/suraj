@@ -549,7 +549,7 @@
 
                 <!-- H2 heading -->
                 <h2>We have successfully<br>
-                    completed 500+ projects</h2>
+                    completed 10+ projects</h2>
 
                 <!-- Tabs Buttons -->
                 <ul class="site-portfolio-tabs">
@@ -698,29 +698,7 @@
 <!-- Testimonial -->
 <!-- End testimonial -->
 
-<!-- Clients -->
-<div class="site-clients">
 
-    <!-- Bootstrap -->
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-
-                <!-- Images -->
-                <figure><a href="#"><img src="images/client-1.png" alt="client"></a></figure>
-                <figure><a href="#"><img src="images/client-2.png" alt="client"></a></figure>
-                <!-- Active -->
-                <figure class="active"><a href="#"><img src="images/client-3.png" alt="client"></a></figure>
-                <figure><a href="#"><img src="images/client-4.png" alt="client"></a></figure>
-                <figure><a href="#"><img src="images/client-5.png" alt="client"></a></figure>
-
-            </div>
-        </div>
-    </div>
-    <!-- End bootstrap -->
-
-</div>
-<!-- End clients -->
 
 <!-- Quick support -->
 <div id="contact" class="site-quick-support site-dark-section">
