@@ -47,3 +47,15 @@
         display: none;
     }
 }
+.whatsapp-icon {
+    position: fixed;
+    bottom: 20px; /* Adjust the distance from the bottom as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    z-index: 1000; /* Ensure it appears above other content */
+}
+
+/* Add styles for the WhatsApp icon image if needed */
+.whatsapp-icon img {
+    width: 60px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}

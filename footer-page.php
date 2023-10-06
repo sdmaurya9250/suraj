@@ -143,6 +143,8 @@
                 <a target="_blank" href="https://www.facebook.com/people/Digitalcotech/100088403738077/?is_tour_completed=true"><i class="fa fa-facebook"></i></a>
                 <a target="_blank" href="https://www.instagram.com/digitalcotech/"><i class="fa fa-instagram"></i></a>
                 <a target="_blank" href="https://www.youtube.com/@digitalcotech/videos"><i class="fa fa-youtube"></i></a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=918268219057"><i class="fa fa-whatsapp"></i></a>
+
             </div>
 
         </div>
@@ -156,7 +158,6 @@
 <!-- Preloader -->
 <div class="site-preloader">
 <img src="images/loader.gif" alt="loader">
-</div>
 
 </div>
 <!-- End Wrapper -->
@@ -182,8 +183,13 @@
 <script src="js/template.js"></script>                      <!-- Theme Options -->
 
 <!-- <script src="js/retina.js"></script>                      
-<script src="js/retina.min.js"></script>                   -->
-
+<script src="js/retina.min.js"></script>   
+            -->
+    <div class="whatsapp-icon">
+        <a href="https://api.whatsapp.com/send?phone=918268219057" target="_blank">
+            <img src="image/WhatsApp_icon.png.webp" alt="WhatsApp">
+        </a>
+    </div>
 </body>
 
 </html>
