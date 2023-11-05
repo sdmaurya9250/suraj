@@ -725,7 +725,7 @@
                             Talking to the development team allows you to discuss budget constraints and project timelines. We can work together to determine what is feasible within your budget and how long it will take to complete the project.
                             </p>
                             <!-- Number -->
-                            <a href="tel:9834643729">9894643729</a>
+                            <a href="tel:9702609250">9894643729</a>
                             <!-- Mail -->
                             <a href="mailto:contact.digitalcotech@gmail.com">contact.digitalcotech@gmail.com</a>
                         </div>

@@ -96,6 +96,7 @@
                     <li><a href="/digital-marketing.php">Digital Marketing</a></li>
                     <li><a href="/qa-testing.php">QA & Testing</a></li>
                     <li><a href="/app-development">App Development</a></li>
+                    <li><a href="/final-year-projects">Final Year Projects</a></li>
                 </ul>
 
             </div>
@@ -143,7 +144,7 @@
                 <a target="_blank" href="https://www.facebook.com/people/Digitalcotech/100088403738077/?is_tour_completed=true"><i class="fa fa-facebook"></i></a>
                 <a target="_blank" href="https://www.instagram.com/digitalcotech/"><i class="fa fa-instagram"></i></a>
                 <a target="_blank" href="https://www.youtube.com/@digitalcotech/videos"><i class="fa fa-youtube"></i></a>
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=918268219057"><i class="fa fa-whatsapp"></i></a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=919702609250"><i class="fa fa-whatsapp"></i></a>
 
             </div>
 
@@ -186,7 +187,7 @@
 <script src="js/retina.min.js"></script>   
             -->
     <div class="whatsapp-icon">
-        <a href="https://api.whatsapp.com/send?phone=918268219057" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=919702609250" target="_blank">
             <img src="image/WhatsApp_icon.png.webp" alt="WhatsApp">
         </a>
     </div>

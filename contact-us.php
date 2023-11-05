@@ -115,7 +115,7 @@ include_once('header-page.php');
                                     <h4> Call us </h4>
                                 </div>
                                 <div class="clearfix"> </div>
-                                <a class="call"  href="tel:9834643729">+91 9834643729</a>
+                                <a class="call"  href="tel:9702609250">+919702609250</a>
                                 <!-- <div class="clearfix"> </div>
                                 <a class="call"  href="tel:19876543213">+1 123 456 7890</a> -->
                             </div>
