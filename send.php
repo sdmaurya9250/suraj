@@ -1,20 +1,7 @@
 <?php
 
 
-$servername = "localhost";
-$username = "root";
-$password = "Digitalcotech@12345";
-$database = "digitech";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $database);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-
-
+include_once('conn.php');
 
 
 
@@ -47,7 +34,27 @@ if(isset($_POST['submit'])) {
         $_SESSION['error_message'] = "'Sorry, something went wrong. Please try again later.";
         header("Location: index.php");
     }
+    exit;
 }
+
+if(isset($_GET['action']) && $_GET['action'] == 'get_countries') {
+ 
+    $sql = "SELECT name, phonecode FROM country";
+    $result = $conn->query($sql);
+
+    if ($result->num_rows > 0) {
+        $countries = $result->fetch_all(MYSQLI_ASSOC);
+        echo json_encode($countries);
+    } else {
+        echo "0 results";
+    }
+
+    $conn->close();
+    exit;
+}
+
 // Close the connection
 $conn->close();
+
+exit;
 ?>

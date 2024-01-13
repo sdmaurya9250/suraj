@@ -391,52 +391,6 @@ include_once('header-page.php');
     </div>
     <!-- End team -->
     
-    <!-- Call to action -->
-    <div class="site-call-to-action">
-
-        <!-- Bootstrap -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-
-                    <!-- Box -->
-                    <div class="site-box">
-
-                        <!-- H1 heading -->
-                        <h1>Like to boost your business?<br>
-							Let’s get in touch with us right now!!</h1>
-
-                        <!-- Bootstrap inner columns -->
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-offset-2">
-
-                                <!-- Paragraph -->
-                                <p>Digitalcotech, a Mumbai-based web and mobile app development company, thrives on client-centricity, delivering top-notch solutions while maintaining cost-efficiency and sustainable growth. Our bespoke proposals cater to individual needs, ensuring timely and budget-friendly excellence.</p>
-
-                            </div>
-                            <div class="col-xs-12">
-
-                                
-                                <!-- Button -->
-                                <a href="mailto:contact.digitalcotech@gmail.com" class="theme-btn"> 
-                                <!-- Icon -->
-                                <figure><i class="fa fa-envelope"></i></figure>
-                                Email us Now</a>
-
-                            </div>
-                        </div>
-
-                    </div>
-                    <!-- End box -->
-
-                </div>
-            </div>
-        </div>
-        <!-- End Bootstrap -->
-
-    </div>
-    <!-- End call to action -->
-    
     <!-- Tweets -->
     <div class="site-tweets">
 

@@ -60,11 +60,11 @@ session_start();
                     <!-- Left section -->
                     <div class="site-top-bar-left-section">
 
-                    <a href="tel:+919702609250">
+                    <a href="tel:+917875794608">
                             <!-- Icon -->
                             <i class="fa fa-phone"></i>
                             <!-- Text -->
-                            <span>9702609250</span>
+                            <span>+91 7875794608</span>
                         </a>
 
                     </div>

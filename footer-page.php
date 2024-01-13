@@ -144,7 +144,7 @@
                 <a target="_blank" href="https://www.facebook.com/people/Digitalcotech/100088403738077/?is_tour_completed=true"><i class="fa fa-facebook"></i></a>
                 <a target="_blank" href="https://www.instagram.com/digitalcotech/"><i class="fa fa-instagram"></i></a>
                 <a target="_blank" href="https://www.youtube.com/@digitalcotech/videos"><i class="fa fa-youtube"></i></a>
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=919702609250"><i class="fa fa-whatsapp"></i></a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=917875794608"><i class="fa fa-whatsapp"></i></a>
 
             </div>
 
@@ -157,10 +157,9 @@
 <!-- End Footer -->
 
 <!-- Preloader -->
-<div class="site-preloader">
+<!-- <div class="site-preloader">
 <img src="images/loader.gif" alt="loader">
-
-</div>
+</div> -->
 <!-- End Wrapper -->
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -171,15 +170,15 @@
 <!-- <script src="js/jquery.countimator.min.js"></script>        -->
 <script src="js/jquery.sticky.min.js"></script>             <!-- Sticky Header -->
 <script src="js/swiper.jquery.min.js"></script>             <!-- Carousel Slider -->
-<script src="js/isotope.pkgd.min.js"></script>              <!-- Isotope -->
-<script src="js/jquery.tabslet.min.js"></script>            <!-- Tabs -->
-<script src="js/tweetie.min.js"></script>                   <!-- Tweets -->
+<!-- <script src="js/isotope.pkgd.min.js"></script>             
+<script src="js/jquery.tabslet.min.js"></script>        
+<script src="js/tweetie.min.js"></script>                  -->
 <script src="js/jquery.scrollUp.min.js"></script>           <!-- Scroll up -->
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>   Google map -->
-<script src="js/imagesloaded.pkgd.min.js"></script>         <!-- Header slider scripts -->
+<script src="js/imagesloaded.pkgd.min.js"></script>         
 <script src="js/hammer.min.js"></script>
 <script src="js/sequence.min.js"></script>
-<script src="js/venobox.min.js"></script>                   <!-- Light box -->
+<!-- <script src="js/venobox.min.js"></script>                  -->
 <script src="js/jquery.mb.YTPlayer.min.js"></script>        <!-- Video background -->
 <script src="js/template.js"></script>                      <!-- Theme Options -->
 
@@ -187,7 +186,7 @@
 <script src="js/retina.min.js"></script>   
             -->
     <div class="whatsapp-icon">
-        <a href="https://api.whatsapp.com/send?phone=919702609250" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=917875794608" target="_blank">
             <img src="image/WhatsApp_icon.png.webp" alt="WhatsApp">
         </a>
     </div>
