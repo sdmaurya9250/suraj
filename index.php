@@ -516,7 +516,7 @@
                             <h3>Request call back</h3>
 
                             <!-- Contact form -->
-                            <form action="send.php" method="post" id="contactForm" class="site-contact-form">
+                            <form method="post" id="contactForms" class="site-contact-forms">
                                 <!-- Name -->
                                 <label><input type="text" name="yname" placeholder="Name" required="required"></label>
                                 <!-- Email -->
@@ -530,8 +530,7 @@
                                 <!-- Subject -->
                                 <label><textarea name="message" placeholder="Message" required></textarea></label>
                                 <!-- Submit -->
-                                <button type="submit" name="submit">Send request <i
-                                        class="fa fa-spin fa-spinner"></i></button>
+                                <button type="submit" name="submit" onclick="submitForm()">Send request <i class="fa fa-spin fa-spinner"></i></button>
                             </form>
 
                         </div>

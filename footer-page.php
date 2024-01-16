@@ -181,7 +181,7 @@
 <!-- <script src="js/venobox.min.js"></script>                  -->
 <script src="js/jquery.mb.YTPlayer.min.js"></script>        <!-- Video background -->
 <script src="js/template.js"></script>                      <!-- Theme Options -->
-
+<script src="js/contacts.js"></script>
 <!-- <script src="js/retina.js"></script>                      
 <script src="js/retina.min.js"></script>   
             -->

@@ -139,7 +139,7 @@ include_once('header-page.php');
                                 <div class="inner">
                                     <div class="form-box">
                                         <h4>Drop a message us</h4>
-                                        <form action="send.php" method="post" id="contactForms" class="site-contact-forms">
+                                        <form  method="post" id="contactForms" class="site-contact-forms">
                                             <!-- Name -->
                                             <label><input type="text" name="yname" placeholder="Name" required="required"></label>
                                             <!-- Email -->
@@ -150,7 +150,7 @@ include_once('header-page.php');
                                             <!-- Subject -->
                                             <label><textarea name="message" placeholder="Message" required></textarea></label>
                                             <!-- Submit -->
-                                            <button type="submit" name="submit">Send request <i class="fa fa-spin fa-spinner"></i></button>
+                                            <button type="submit" name="submit" onclick="submitForm()">Send request <i class="fa fa-spin fa-spinner"></i></button>
                                         </form>
                                     </div>
                                 </div>

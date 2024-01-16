@@ -4805,9 +4805,34 @@ box-shadow: 0px 21px 69px -10px rgba(18,17,88,0.82);
   transition-property: background, color;
   border-radius:4px;
 }
+.site-quick-support button[type=button] {
+	width:100%;
+  background-color: #4543d0;
+  box-shadow: none;
+  padding: 20px 0;
+  display: block;
+  float: left;
+  color: white;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  margin: 10px 0 0;
+  border: 2px solid #4543d0;
+  transition: 400ms ease;
+  transition-property: background, color;
+  border-radius:4px;
+}
 
 @media screen and (max-width: 767px) {
   .site-quick-support button[type=submit] {
+    display: inline-block;
+    float: none;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .site-quick-support button[type=button] {
     display: inline-block;
     float: none;
     padding-left: 60px;
@@ -4821,6 +4846,15 @@ box-shadow: 0px 21px 69px -10px rgba(18,17,88,0.82);
 }
 
 .site-quick-support button[type=submit] i.fa {
+  display: none;
+}
+
+.site-quick-support button[type=button]:hover {
+  background: none;
+  color: #4543d0;
+}
+
+.site-quick-support button[type=button] i.fa {
   display: none;
 }
 
