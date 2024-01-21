@@ -20,13 +20,13 @@ No matter what your budget is, we can tailor a package that will suit your needs
                         
 
                     </p>
-                    <div class="text-center text-lg-start">
+                    <!-- <div class="text-center text-lg-start">
                         <a href="about-us"
                             class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                             <span>Read More</span>
                             <i class="bi bi-arrow-right"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
