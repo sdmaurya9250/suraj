@@ -96,7 +96,6 @@
                     <li><a href="/digital-marketing.php">Digital Marketing</a></li>
                     <li><a href="/qa-testing.php">QA & Testing</a></li>
                     <li><a href="/app-development">App Development</a></li>
-                    <li><a href="/final-year-projects">Final Year Projects</a></li>
                 </ul>
 
             </div>
@@ -175,16 +174,15 @@
 <script src="js/tweetie.min.js"></script>                  -->
 <script src="js/jquery.scrollUp.min.js"></script>           <!-- Scroll up -->
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>   Google map -->
-<script src="js/imagesloaded.pkgd.min.js"></script>         
-<script src="js/hammer.min.js"></script>
+<!-- <script src="js/imagesloaded.pkgd.min.js"></script>         
+<script src="js/hammer.min.js"></script> -->
 <script src="js/sequence.min.js"></script>
 <!-- <script src="js/venobox.min.js"></script>                  -->
 <script src="js/jquery.mb.YTPlayer.min.js"></script>        <!-- Video background -->
 <script src="js/template.js"></script>                      <!-- Theme Options -->
 <script src="js/contacts.js"></script>
-<!-- <script src="js/retina.js"></script>                      
-<script src="js/retina.min.js"></script>   
-            -->
+
+    
     <div class="whatsapp-icon">
         <a href="https://api.whatsapp.com/send?phone=917875794608" target="_blank">
             <img src="image/WhatsApp_icon.png.webp" alt="WhatsApp">

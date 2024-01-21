@@ -1,139 +1,44 @@
 <?php include_once('header-page.php'); ?>
-<?php include_once('header-page.php'); ?>
 
-<!-- Main Slider -->
-<div class="site-main-slider slider-version-1">
+<section id="about" class="about mt-5">
 
-    <!-- Sequence slider -->
-    <div id="sequence">
-        <ul class="seq-canvas">
-            <li class="sequence-slide">
+    <div class="container aos-init aos-animate home-page-content" data-aos="fade-up">
+        <div class="row gx-0">
 
-                <!-- Background Image -->
-                <div class="sequence-bg" style="background-image: url(images/slider-bg-image-3.jpg)"></div>
+            <div class="col-lg-6 d-flex flex-column justify-content-center aos-init aos-animate" data-aos="fade-up"
+                data-aos-delay="200">
+                <div class="content">
+                    <h2 >
+                        Digitalcotech is your go-to partner for web and app development solutions in today's dynamic business environment.
+                        <br><br> At Digitalcotech, we understand the pivotal role technology plays in business growth. As a leading IT platform, our mission is to empower businesses by seamlessly connecting them with top-tier developers on demand.
+                    </h2    >
+                    <br>
+                    <p>
+                        We also offer custom packages for businesses of all sizes.
+No matter what your budget is, we can tailor a package that will suit your needs and help you achieve your online goals.
+                        <br><br>
+                        
 
-                <!-- Caption -->
-                <div class="sequence-caption">
-
-                    <!-- Bootstrap -->
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12">
-
-                                <!-- H2 heading -->
-                                <h2>We are Digitalcotech, we help you to</h2>
-                                <!-- H1 Heading -->
-                                <h1>Grow your business</h1>
-                                <!-- Paragraph -->
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            Success usually comes to those who are too busy to be looking for it.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!-- Button -->
-                                <a href="/contact-us.php" class="theme-btn color-btn">Contact us</a>
-
-                            </div>
-                        </div>
+                    </p>
+                    <div class="text-center text-lg-start">
+                        <a href="about-us"
+                            class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                            <span>Read More</span>
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
                     </div>
-                    <!-- End bootstrap -->
-
                 </div>
-                <!-- End caption -->
-            </li>
-            <li class="sequence-slide">
+            </div>
 
-                <!-- Background Image -->
-                <div class="sequence-bg" style="background-image: url(images/slider-bg-image-2.jpg)"></div>
+            <div class="col-lg-6 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out"
+                data-aos-delay="200">
+                <img src="image/3.jpg" class="img-fluid" alt="">
+            </div>
 
-                <!-- Caption -->
-                <div class="sequence-caption">
-
-                    <!-- Bootstrap -->
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12">
-
-                                <!-- H2 heading -->
-                                <h2>We professionals </h2>
-                                <!-- H1 Heading -->
-                                <h1>We build your business</h1>
-                                <!-- Paragraph -->
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            We don't just build websites; we build your business's digital success, one
-                                            pixel at a time.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!-- Button -->
-                                <a href="/contact-us.php" class="theme-btn">Contact us</a>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End bootstrap -->
-
-                </div>
-                <!-- End caption -->
-
-            </li>
-            <li class="sequence-slide">
-
-                <!-- Background Image -->
-                <div class="sequence-bg" style="background-image: url(img/1.jpg)"></div>
-
-                <!-- Caption -->
-                <div class="sequence-caption">
-
-                    <!-- Bootstrap -->
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-xs-12">
-
-                                <!-- H2 heading -->
-                                <h2>We are Digitalcotech</h2>
-                                <!-- H1 Heading -->
-                                <h1>we build your business</h1>
-                                <!-- Paragraph -->
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            We don't build websites; we build bridges that connect your business to the
-                                            digital world.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!-- Button -->
-                                <a href="/contact-us.php" class="theme-btn">Contact us</a>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End bootstrap -->
-
-                </div>
-                <!-- End caption -->
-            </li>
-        </ul>
+        </div>
     </div>
 
-    <!-- Pagination -->
-    <ul class="seq-pagination">
-        <li>Step 1</li>
-        <li>Step 2</li>
-        <li>Step 3</li>
-    </ul>
-
-    <!-- Navigation -->
-    <button type="button" class="seq-prev"><span class="icon-slider-arrow-left"></span></button>
-    <button type="button" class="seq-next"><span class="icon-slider-arrow-right"></span></button>
-
-</div>
-<!-- End Slider -->
+</section>
 
 <!-- Site Features -->
 <div id="Features" class="site-features site-white-section">
@@ -491,7 +396,7 @@
                 <h1>We are ready to help you</h1>
 
                 <!-- H2 heading -->
-                <h2>Free Consultation</h2>
+                <h2>Contact Us</h2>
 
                 <div class="map-and-form-container">
 
@@ -499,13 +404,21 @@
                     <div class="col-xs-12 col-sm-6">
                         <div class="left-colom">
                             <h3>Let’s talk to us</h3>
+                            <p>If you have any query feel free to ask Contact Us now to get the service We will reach you within a 24 hour</p>
+                           <br>
+                           <br>
                             <p>
                             Talking to the development team allows you to discuss budget constraints and project timelines. We can work together to determine what is feasible within your budget and how long it will take to complete the project.
                             </p>
+                            <br>
+                            <h3 style="font-size: medium;">Address</h3>
+                            <p>Mumbai, Maharashrtra</p>
+                            <h3 style="font-size: medium;">Contact</h3>  
                             <!-- Number -->
-                            <a href="tel:9702609250">9894643729</a>
+                            <a href="tel:7875794608"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                                 +91 7875794608</a>
                             <!-- Mail -->
-                            <a href="mailto:contact.digitalcotech@gmail.com">contact.digitalcotech@gmail.com</a>
+                            <a href="mailto:contact.digitalcotech@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; digitalcotech@gmail.com</a>
                         </div>
                     </div>
 

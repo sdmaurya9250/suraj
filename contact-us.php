@@ -115,7 +115,7 @@ include_once('header-page.php');
                                     <h4> Call us </h4>
                                 </div>
                                 <div class="clearfix"> </div>
-                                <a class="call"  href="tel:7875794608">+917875794608</a>
+                                <a class="call"  href="tel:7875794608">+91 7875794608</a>
                                 <!-- <div class="clearfix"> </div>
                                 <a class="call"  href="tel:19876543213">+1 123 456 7890</a> -->
                             </div>
@@ -159,8 +159,8 @@ include_once('header-page.php');
                             <!-- Google map -->
                             <div class="col-xs-12 col-sm-12 col-md-6 no-left-padding">
                                 <div class="inner">
-                                    <div class="site-google-map" id="site-map">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30164.767147124647!2d72.89048448043977!3d19.08149701507158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1694367214797!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <div class="site-google-map" id="site-map" style="padding: 2%; margin-top: 2%;">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30164.767147124647!2d72.89048448043977!3d19.08149701507158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1694367214797!5m2!1sen!2sus" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>

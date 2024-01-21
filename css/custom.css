@@ -19,6 +19,9 @@
 .company-logo{
    width: 20%;
 }
+.home-page-content{
+    margin-top: 2%;
+}
 
 .company-name-headings{
     position: absolute;
@@ -45,6 +48,13 @@
     }
     .site-main-slider .seq-prev {
         display: none;
+    }
+
+    .site-top-bar{
+        display: none;
+    }
+    .home-page-content{
+        margin-top: 5%;
     }
 }
 .whatsapp-icon {
