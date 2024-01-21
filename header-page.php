@@ -31,11 +31,10 @@ session_start();
     <link href="css/bootstrap.min.css" rel="stylesheet">            									<!-- Bootstrap CSS Only GRID -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="css/google-font.css">              									<!-- Google Font -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">         									<!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="css/swiper.min.css">               									<!-- Swiper slider -->
-    <link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css">   									<!-- Video background -->
-    <link rel="stylesheet" href="css/template.css">                 									<!-- Template CSS -->
-    <link rel="stylesheet" href="css/custom.css">                 									<!-- Template CSS -->
+    <link rel="stylesheet" href="css/font-awesome.min.css?v=123">         									<!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="css/swiper.min.css?v=123">               									<!-- Swiper slider -->								<!-- Video background -->
+    <link rel="stylesheet" href="css/template.css?v=123">                 									<!-- Template CSS -->
+    <link rel="stylesheet" href="css/custom.css?v=123">                 									<!-- Template CSS -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
