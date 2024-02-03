@@ -371,12 +371,12 @@ No matter what your budget is, we can tailor a package that will suit your needs
                 <h2>Web Analytics Dashboard</h2>
                 <center>
                 <div class="row ">
-                    <div class="col-md-6">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
                     <div class="site-box">
                     <div class="service-image"> <img src="img/dashboard1.jpeg" alt="image"> </div>
                     </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
                     <div class="site-box">
                     <div class="service-image"> <img src="img/dashboard2.jpeg" alt="image"> </div>
                     </div>
