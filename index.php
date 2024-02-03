@@ -178,12 +178,8 @@ No matter what your budget is, we can tailor a package that will suit your needs
         <div class="row">
             <div class="col-xs-12">
 
-                <!-- H1 Heading -->
-                <h1>Our Services</h1>
-
                 <!-- H2 heading -->
-                <h2>From startup to reach<br>
-                    high level success!</h2>
+                <h2>Our Services</h2>
 
                 <!-- Bootstrap inner columns -->
                 <div class="row">
@@ -372,6 +368,21 @@ No matter what your budget is, we can tailor a package that will suit your needs
 
                 </div>
                 <!-- End inner columns -->
+                <h2>Web Analytics Dashboard</h2>
+                <center>
+                <div class="row ">
+                    <div class="col-md-6">
+                    <div class="site-box">
+                    <div class="service-image"> <img src="img/dashboard1.jpeg" alt="image"> </div>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="site-box">
+                    <div class="service-image"> <img src="img/dashboard2.jpeg" alt="image"> </div>
+                    </div>
+                    </div>
+                </div>
+                </center>
 
             </div>
         </div>
@@ -392,10 +403,6 @@ No matter what your budget is, we can tailor a package that will suit your needs
             <!-- Bootstrap inner columns -->
             <div class="col-xs-12">
 
-                <!-- H1 heading -->
-                <h1>We are ready to help you</h1>
-
-                <!-- H2 heading -->
                 <h2>Contact Us</h2>
 
                 <div class="map-and-form-container">

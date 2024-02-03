@@ -34,7 +34,7 @@ session_start();
     <link rel="stylesheet" href="css/font-awesome.min.css?v=123">         									<!-- Font Awesome Icons -->
     <link rel="stylesheet" href="css/swiper.min.css?v=123">               									<!-- Swiper slider -->								<!-- Video background -->
     <link rel="stylesheet" href="css/template.css?v=123">                 									<!-- Template CSS -->
-    <link rel="stylesheet" href="css/custom.css?v=123">                 									<!-- Template CSS -->
+    <link rel="stylesheet" href="css/custom.css?v=1234">                 									<!-- Template CSS -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
