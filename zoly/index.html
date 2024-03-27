@@ -287,8 +287,7 @@
 
 <body>
 
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFKX6KR" height="0" width="0"
-            style="display:none;visibility:hidden" defer=""></iframe></noscript>
+   
 
 
     <header class="Homepage">
@@ -301,11 +300,7 @@
                 </div>
 
                 <div class="ToogleButton">
-                    <button type="button" class="btn OpenSearch"><svg xmlns="http://www.w3.org/2000/svg" width="30"
-                            height="30" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-                            <path
-                                d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                        </svg></button>
+                 
 
                     <button type="button" class="btn OpenNav"><svg xmlns="http://www.w3.org/2000/svg" width="60"
                             height="41" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
@@ -316,8 +311,8 @@
 
                     <div id="myNav" class="overlay">
                         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                        <a href="/">Home</a>
-                        <!-- <a href="#about">About</a> -->
+                        <!-- <a href="/">Home</a> -->
+                   
                         <a href="#ContactUs">Contact Us</a>
                     </div>
 
@@ -503,7 +498,7 @@ Home</label>
                                         </li>
                                         </ol>
                                 </div>
-                                <div class="tab-content">
+                                <!-- <div class="tab-content">
                                     <div class="tab-pane fade active show" id="ZoyleeSalonCart">
                                         <div class="Venues venues-data">
                                             <p class="text-black text-center">No Items</p>
@@ -514,9 +509,9 @@ Home</label>
                                             <p class="text-black text-center">No Items</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                         </li>
-                        <li>
+                        <li class="text-aligin  contact-laptop-screen">
                             <a href="#ContactUs" class="Contact">Contact Us</a>
                         </li>
                     </ul>
@@ -548,6 +543,7 @@ Home</label>
     }
     .row .social-img{
         text-align: right;
+        margin-left: -10%;
     }
 </style>
     <section class="banner">
@@ -1406,9 +1402,28 @@ Home</label>
             </div> -->
             
             <div class="col-lg-12 col-md-12 text-center">
-                <p class=" font-14 copy-right font-w-600">
-                    &copy; 2024 MakeOver Web Services. All Rights Reserved
-                </p>
+                  <div class="llk">
+                    <p class="social-img1">
+                        <a href="#" target="_blank">
+                            <img src="assets/images/FB.png" alt="fb" class="social-icon">
+                        </a>
+                        <a href="#" target="_blank">
+                            <img src="assets/images/insta.png" alt="instagram" class="social-icon">
+                        </a>
+                        <a href="" target="_blank">
+                            <img src="assets/images/YT.png" alt="youtube" class="social-icon">
+                        </a>
+                        <a href="" target="_blank">
+                            <img src="assets/images/Twtr.png" alt="twitter" class="social-icon">
+                        </a>
+                        <a href="" target="_blank">
+                            <img src="assets/images/linkedin.png" alt="linkedin" class="social-icon">
+                        </a>
+                    </p>
+                    <p class=" font-14 copy-right font-w-600">
+                        &copy; 2024 Zoylee Web Services. All Rights Reserved
+                    </p>
+                </div>
             </div>
         </div>
         </div>
@@ -1424,6 +1439,18 @@ Home</label>
     /* background-color: lightgreen; */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjust the shadow values as needed */
 }
+
+.footerl .col-lg-12 p {
+            margin-top: 0px;
+        }
+
+        .footerl .col-lg-12 .llk {
+            margin-top: 10%;
+        }
+
+        .social-img1 {
+            text-align: center;
+        }
     </style>
     </section>
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
@@ -1432,16 +1459,7 @@ Home</label>
         <div class="loader4"></div>
     </div>
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            document.getElementById('saveButton').addEventListener('click', function () {
-                var phoneNumber = document.querySelector('input[type="phone"]').value;
-                var message = document.querySelector('.textarea-control').value;
-                var url = 'https://api.whatsapp.com/send?phone=+91 ' + phoneNumber + '&text=' + encodeURIComponent(message);
-                window.open(url, '_blank');
-            });
-        });
-    </script>
+
 
 
 
@@ -1449,243 +1467,7 @@ Home</label>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
         integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" type="f70425ea6728d56e2ddf1d1e-text/javascript"></script>
-    <script type="f70425ea6728d56e2ddf1d1e-text/javascript">
-        var base_url = $('meta[name="base_url"]').attr('content');
-        var full_url = $('#fullUrl').val();
-        var setLatLngUrl = base_url + "/set-lat-lng?random=" + Date.now();
-
-        function convertUrlToSeo(value) {
-            var url = "";
-            value = value.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '');
-            url = base_url + '/salon-in-' + value;
-            return url;
-        }
-
-
-
-        $(document).on('click', '.locate-me-btn', function() {
-            var locate_btn_id_name = $(this).attr('id');
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(function(position) {
-                    var latlng = {
-                        lat: position.coords.latitude,
-                        lng: position.coords.longitude
-                    };
-                    localStorage.setItem('latlng', latlng);
-                    var random = Date.now();
-
-                    var geocoder = new google.maps.Geocoder;
-                    var redVal = '';
-
-                    geocoder.geocode({
-                        'location': latlng
-                    }, function(results, status) {
-                        if (status === 'OK') {
-                            localStorage.setItem('formatted_address', results[0].formatted_address);
-                            // $('#searchbox').attr('placeholder', results[0].formatted_address);
-                            for (var i = 0; i < results[0].address_components.length; i++) {
-                                var types = results[0].address_components[i].types[0];
-                                var value = results[0].address_components[i].long_name;
-                                // console.log(`${types}===${value}`);
-                                if (redVal == '' && types == 'administrative_area_level_2') {
-                                    redVal = value;
-                                }
-                                if (types === "locality") {
-                                    redVal = value;
-                                }
-                                if (redVal) {
-                                    $('.show_location').html(redVal);
-                                    localStorage.setItem('city', redVal);
-                                    $('#citySearchBox').val(redVal);
-
-                                }
-                            }
-                            $('#user-location').text(redVal);
-                            location.reload();
-
-                        }
-                        $.ajax({
-                            type: 'GET',
-                            url: setLatLngUrl,
-                            data: {
-                                city: redVal,
-                                lat: position.coords.latitude,
-                                lng: position.coords.longitude,
-                            },
-                            success: function(data) {
-                                if (locate_btn_id_name == 'basic-addon-desktop') {
-                                    location.reload();
-                                    // window.open(convertUrlToSeo(redVal), '_self');
-                                }
-                            },
-                            error: function(err) {
-                                console.log('error set location');
-                                console.log(err);
-                            }
-                        });
-                    });
-
-                });
-            }
-        });
-
-        $('#findBtnSearchBox').click(function() {
-            var value = $('#citySearchBox').val();
-            if (value) {
-                var base_url = $('meta[name="base_url"]').attr('content');
-                var redirectUrl = base_url + "/list?city=" + value;
-                window.open(convertUrlToSeo(value), '_self');
-            }
-        });
-
-
-        function toggleBounce() {
-            if (marker.getAnimation() !== null) {
-                marker.setAnimation(null);
-            } else {
-                marker.setAnimation(google.maps.Animation.BOUNCE);
-            }
-        }
-
-
-        var marker;
-
-        function initMap() {
-            // console.log("test location");
-            var input = document.getElementById('searchbox');
-            var autocomplete = new google.maps.places.Autocomplete(input);
-            autocomplete.setComponentRestrictions({
-                'country': ['in']
-            });
-
-            autocomplete.addListener('place_changed', function() {
-                var base_url = $('meta[name="base_url"]').attr('content');
-                var place = autocomplete.getPlace();
-                var lat = place.geometry.location.lat();
-                var lng = place.geometry.location.lng();
-                localStorage.setItem('latlng', {
-                    lat,
-                    lng
-                });
-
-                localStorage.setItem('formatted_address', place.formatted_address);
-                var redVal = '';
-                for (var i = 0; i < place.address_components.length; i++) {
-                    var types = place.address_components[i].types[0];
-                    var value = place.address_components[i].long_name;
-                    if (redVal == '' && types == 'administrative_area_level_2') {
-                        redVal = value;
-                    }
-                    if (types === "locality") {
-                        redVal = value;
-                        $('#citySearchBox').val(redVal);
-                        $('.show_location').html(redVal);
-                        localStorage.setItem('city', redVal);
-                        // alert(convertUrlToSeo(redVal));
-                        // window.open(convertUrlToSeo(redVal), '_self');
-                        // location.reload();
-                    }
-                }
-                if (redVal) {
-                    $('#citySearchBox').val(redVal);
-                    // window.open(convertUrlToSeo(redVal), '_self');
-                }
-                $.ajax({
-                    type: 'GET',
-                    url: setLatLngUrl,
-                    data: {
-                        lat: lat,
-                        lng: lng,
-                        city: redVal
-                    },
-                    success: function(data) {
-                        let urlCat = window.location.pathname.split('/');
-                        if (urlCat[2] == "salon-at-home" || urlCat[2] == 'therapy-at-home') {
-                            window.open(base_url + '/women/salon-at-home', '_self')
-                        } else {
-                            window.open(convertUrlToSeo(redVal), '_self');
-                        }
-
-                        // location.reload();
-                    },
-                    error: function(err) {
-                        console.log(err);
-                    }
-                });
-
-                $('.location-results').append($('.pac-container'));
-
-
-            });
-
-            // second instance
-            var input2 = document.getElementById('searchbox_user_address');
-            var autocomplete2 = new google.maps.places.Autocomplete(input2);
-            autocomplete2.setComponentRestrictions({
-                'country': ['in']
-            });
-
-            autocomplete2.addListener('place_changed', function() {
-
-                var base_url = $('meta[name="base_url"]').attr('content');
-                var place = autocomplete2.getPlace();
-                var lat = place.geometry.location.lat();
-                var lng = place.geometry.location.lng();
-                localStorage.setItem('latlng', {
-                    lat,
-                    lng
-                });
-                console.log(lat);
-                console.log(lng);
-
-                localStorage.setItem('formatted_address', place.formatted_address);
-                $("#full_address").val(place.formatted_address);
-                $("#lat_txt").val(lat);
-                $("#lng_txt").val(lng);
-                $("#searchbox_user_address").val(
-                    place.formatted_address
-                );
-                var redVal = '';
-                var address_1 = "";
-                for (var i = 0; i < place.address_components.length; i++) {
-                    var types = place.address_components[i].types[0];
-                    var value = place.address_components[i].long_name;
-
-                    if (types == 'locality') {
-                        localStorage.setItem('city', value);
-                    }
-
-                    if (types == "premise") {
-                        address_1 += value;
-                    }
-                    if (types == "political") {
-                        if (address_1) {
-                            address_1 += ", " + value;
-                        } else {
-                            address_1 += value;
-                        }
-                    }
-                    if (types == "postal_code") {
-                        $("#zipcode").val(value);
-                    }
-                }
-                $("#address_1").val(address_1);
-
-
-
-            });
-
-        }
-
-        $('.closebtn').click(function() {
-            location.reload();
-        });
-
-        if (localStorage.getItem('city')) {
-            // $('.show_location').html(localStorage.getItem('city'));
-            $('#searchbox').attr('placeholder', localStorage.getItem('formatted_address'));
-        }
-    </script>
+    
 
     <!-- <script src="assets/js/custom-search.js" type="f70425ea6728d56e2ddf1d1e-text/javascript"></script> -->
     <script src="assets/bootstrap/js/bootstrap.bundle.min.js" type="f70425ea6728d56e2ddf1d1e-text/javascript"></script>

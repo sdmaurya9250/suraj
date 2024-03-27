@@ -1044,8 +1044,10 @@ header .NavLink ul li:first-child {
     margin-left: 0
 }
 
-header .NavLink ul li:last-child {
-    margin-right: 0
+header .NavLink ul  .contact-laptop-screen {
+    /* margin-right: 0 */
+    position: absolute;
+    right: 0;
 }
 
 header .NavLink ul li.CartDropdownButton::after {
