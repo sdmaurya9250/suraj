@@ -35,7 +35,8 @@
     width: 100vw;
     height: 100vh;
     background: rgba(0, 0, 0, .8509803922);
-    z-index: 999
+    z-index: 999;
+   
 }
 
 * body .PopupOpen {
@@ -10101,6 +10102,11 @@ footer .reserved p {
 }
 
 @media screen and (max-width:480px) {
+
+    .whyChoose .row .Review p {
+        text-align: justify;
+    }
+
     .salon {
         flex-direction: column
     }

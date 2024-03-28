@@ -1,3 +1,4 @@
+
 @media(min-width:1280px) {
     *::-webkit-scrollbar {
         width: 5px;
@@ -1476,7 +1477,7 @@
         min-height: 200px
     }
     .whyChoose .row .Review {
-        padding: 132px 40px 30px 18px;
+        padding: 1px 40px 30px 18px;
         width: 94%;
         display: block;
         margin: auto
