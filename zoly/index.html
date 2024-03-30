@@ -1188,6 +1188,11 @@ Home</label>
     <script src="assets/js/header.js" type="f70425ea6728d56e2ddf1d1e-text/javascript"></script>
 
     <script>
+        document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+    });
+    </script>
+    <script>
         $(document).ready(function(){
             // Initially hide the content for salons
             // $(".for-salons").hide();
