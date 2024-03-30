@@ -4051,6 +4051,9 @@ header .NavLink ul li a.Contact:hover {
     .billing-details .billing-box .captcha-pop-up .captcha {
         width: 95vw !important
     }
+    .contact-sm-page{
+        margin-top: 25%;
+    }
 }
 
 @media screen and (max-width:390px) {
