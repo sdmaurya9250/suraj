@@ -81,11 +81,11 @@ $(".OpenSearch").click(function() {
 $(".CloseSearch").click(function() {
     $(".SearchLocation").removeClass("Open");
 });
-$("#searchzoyleeathome").click(function() {
-    $(".SearchResult .SelectServiceVanue").addClass("SearchZoyleeatHome");
+$("#searchMakeOverathome").click(function() {
+    $(".SearchResult .SelectServiceVanue").addClass("SearchMakeOveratHome");
 });
 $("#Searchsalon").click(function() {
-    $(".SearchResult .SelectServiceVanue").removeClass("SearchZoyleeatHome");
+    $(".SearchResult .SelectServiceVanue").removeClass("SearchMakeOveratHome");
 });
 $(document).on("click", "#user-location", function() {
     $(".location-menu").addClass("Open");
@@ -142,17 +142,17 @@ $(document).on("click", ".close-btn", function() {
             $(".loader").addClass('d-none');
             if (data.msg == true) {
                 $("#" + id).parents('.cart-item').remove();
-                let salonItem = $("#ZoyleeSalonCart .cart-item").length;
+                let salonItem = $("#MakeOverSalonCart .cart-item").length;
                 if (salonItem == 0) {
-                    $("#ZoyleeSalonCart .checkout-button").addClass('d-none');
+                    $("#MakeOverSalonCart .checkout-button").addClass('d-none');
                 } else {
-                    $("#ZoyleeSalonCart .checkout-button").removeClass('d-none');
+                    $("#MakeOverSalonCart .checkout-button").removeClass('d-none');
                 }
-                let wahItem = $("#ZoyleeHomeCart .cart-item").length;
+                let wahItem = $("#MakeOverHomeCart .cart-item").length;
                 if (wahItem == 0) {
-                    $("#ZoyleeHomeCart .checkout-button").addClass('d-none')
+                    $("#MakeOverHomeCart .checkout-button").addClass('d-none')
                 } else {
-                    $("#ZoyleeHomeCart .checkout-button").removeClass('d-none')
+                    $("#MakeOverHomeCart .checkout-button").removeClass('d-none')
                 }
                 location.reload();
             } else {

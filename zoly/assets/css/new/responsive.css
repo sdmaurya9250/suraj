@@ -134,7 +134,7 @@
     .banner .bannerContent .row .bannerService .Find .row .Text h4 {
         color: #fff
     }
-    .zoyleeBusiness .Heading .row .Tab ul li {
+    .MakeOverBusiness .Heading .row .Tab ul li {
         margin-left: 7px
     }
     .whyChoose {
@@ -829,44 +829,44 @@
     .MyBookingSection .MyBookingView .MyBooking .BookingDetails .Services .SavedAmount p {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint {
+    .MyBookingSection .MyBookingView .MakeOverPoint {
         height: initial !important
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint h6 {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint h6 {
         font-size: 12px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab {
         justify-content: space-between
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab button {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab button {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate h5 {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate h5 {
         font-size: 12px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate p {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate p {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .PointStatus h5 {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .PointStatus h5 {
         font-size: 18px;
         line-height: 22px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .PointStatus p {
+    .MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .PointStatus p {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .FAQ {
+    .MyBookingSection .MyBookingView .MakeOverPoint .FAQ {
         margin-top: 40px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header a {
+    .MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header a {
         font-size: 12px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body p {
+    .MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body p {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body ul li {
+    .MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body ul li {
         font-size: 10px
     }
-    .MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body h6 {
+    .MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body h6 {
         font-size: 12px
     }
     .MyBookingSection .MyBookingView .ReferAndEarn .ReferSection {
@@ -1401,10 +1401,10 @@
     .footer .mob-center p.download-img.pt-4 {
         padding-top: 38px !important
     }
-    .zoyleeBusiness .Heading .row .Tab ul {
+    .MakeOverBusiness .Heading .row .Tab ul {
         width: 100%
     }
-    .zoyleeBusiness .Heading .row .Tab ul li {
+    .MakeOverBusiness .Heading .row .Tab ul li {
         width: 45%;
         text-align: center
     }
@@ -1456,23 +1456,23 @@
     .banner .bannerContent .row .bannerService .Single .row .Image img {
         min-height: 180px
     }
-    .zoyleeBusiness .Heading .row .Title {
+    .MakeOverBusiness .Heading .row .Title {
         width: 100%
     }
-    .zoyleeBusiness .Heading .row .Tab {
+    .MakeOverBusiness .Heading .row .Tab {
         width: 100%;
         margin-top: 20px
     }
-    .zoyleeBusiness .background {
+    .MakeOverBusiness .background {
         padding: 45px 17px
     }
-    .zoyleeBusiness .TabView .getRegistered .col-sm-7 {
+    .MakeOverBusiness .TabView .getRegistered .col-sm-7 {
         order: 1
     }
-    .zoyleeBusiness .TabView .getRegistered .col-sm-5 {
+    .MakeOverBusiness .TabView .getRegistered .col-sm-5 {
         order: 2
     }
-    .zoyleeBusiness .TabView .getRegistered .image {
+    .MakeOverBusiness .TabView .getRegistered .image {
         background-position: right;
         min-height: 200px
     }

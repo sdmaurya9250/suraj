@@ -503,15 +503,15 @@ header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue::b
     background-color: #626262
 }
 
-header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchZoyleeatHome {
+header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchMakeOveratHome {
     background-color: #f0f0f0
 }
 
-header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchZoyleeatHome::before {
+header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchMakeOveratHome::before {
     background-color: #c4c4c4
 }
 
-header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchZoyleeatHome .form-check input:checked+label {
+header .SearchLocation .Search .SearchInput .SearchResult .SelectServiceVanue.SearchMakeOveratHome .form-check input:checked+label {
     color: #000
 }
 
@@ -1306,7 +1306,7 @@ header .NavLink ul li.CartDropdownButton .Dropdown .tab-content .tab-pane.show .
     transition: .3s !important
 }
 
-header .NavLink ul li.CartDropdownButton .Dropdown .tab-content .tab-pane.show#ZoyleeHomeCart .Venues {
+header .NavLink ul li.CartDropdownButton .Dropdown .tab-content .tab-pane.show#MakeOverHomeCart .Venues {
     transform: translate(0%, 0%) !important
 }
 
@@ -1315,7 +1315,7 @@ header .NavLink ul li.CartDropdownButton .Dropdown .tab-content .tab-pane.show b
     transition: .5s
 }
 
-header .NavLink ul li.CartDropdownButton .Dropdown #ZoyleeHomeCart .Venues {
+header .NavLink ul li.CartDropdownButton .Dropdown #MakeOverHomeCart .Venues {
     transform: translate(100%, 0%) !important
 }
 
@@ -5152,11 +5152,11 @@ header .NavLink ul li a.Contact:hover {
     border: 1px solid #000
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint {
+.MyBookingSection .MyBookingView .MakeOverPoint {
     height: 100%
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableMain {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableMain {
     height: 100%;
     padding: 10px 0;
     border: 1px solid #fee3a6;
@@ -5165,16 +5165,16 @@ header .NavLink ul li a.Contact:hover {
     transition: .3s
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory {
     height: 100%;
     overflow: auto
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled {
     padding-top: 0
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled .AvilablePoint {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled .AvilablePoint {
     position: sticky;
     top: 0;
     background-color: #303030;
@@ -5186,32 +5186,32 @@ header .NavLink ul li a.Contact:hover {
     border-bottom: 1px solid #fee3a6
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled .AvilablePoint h2 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled .AvilablePoint h2 {
     font-size: 40px;
     margin-left: 0
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled .AvilablePoint p {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled .AvilablePoint p {
     font-size: 14px;
     margin-bottom: 0;
     font-weight: 600
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled .AvilablePoint h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled .AvilablePoint h5 {
     font-size: 12px;
     display: none
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory.Scrolled .AvilablePoint h6 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory.Scrolled .AvilablePoint h6 {
     font-size: 12px;
     display: none
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint {
     padding: 30px
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint h2 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint h2 {
     font-size: 70px;
     color: #fee3a6;
     width: -moz-max-content;
@@ -5223,19 +5223,19 @@ header .NavLink ul li a.Contact:hover {
     transition: .3s
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint h2::before {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint h2::before {
     content: "";
     position: absolute;
     bottom: 70%;
     left: 100%;
     width: 19.5px;
     height: 18.5px;
-    background-image: url(../../images/new-home-1/icon/zoylee-points-icon.svg);
+    background-image: url(../../images/new-home-1/icon/MakeOver-points-icon.svg);
     background-size: contain;
     background-repeat: no-repeat
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint p {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint p {
     font-size: 18px;
     line-height: 23px;
     margin-bottom: 40px;
@@ -5244,14 +5244,14 @@ header .NavLink ul li a.Contact:hover {
     font-weight: 300
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint h5 {
     font-size: 14px;
     color: #f0f0f0;
     font-weight: 500;
     text-align: center
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .AvilablePoint h6 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .AvilablePoint h6 {
     color: #f0f0f0;
     font-size: 14px;
     line-height: 19px;
@@ -5259,11 +5259,11 @@ header .NavLink ul li a.Contact:hover {
     text-align: center
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History {
     padding: 30px 15px
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab {
     background: #363636 0% 0% no-repeat padding-box;
     box-shadow: inset 0 3px 8px rgba(0, 0, 0, .2);
     border: 1px solid #4e4e4e;
@@ -5275,7 +5275,7 @@ header .NavLink ul li a.Contact:hover {
     top: 0
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab button {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab button {
     border-color: transparent;
     color: #a7a7a7;
     width: 100%;
@@ -5287,22 +5287,22 @@ header .NavLink ul li a.Contact:hover {
     height: 36px
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab button.active {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab button.active {
     background: #fff 0% 0% no-repeat padding-box;
     box-shadow: 0 3px 6px rgba(0, 0, 0, .5019607843);
     border-radius: 7px;
     color: #000
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .Tab button.active::before {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .Tab button.active::before {
     display: none
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView {
     padding-top: 40px
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single {
     border-bottom: 1px solid #3c3c3c;
     padding: 18px 10px;
     position: relative;
@@ -5312,19 +5312,19 @@ header .NavLink ul li a.Contact:hover {
     animation-direction: top
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single.Referrals .PointStatus h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single.Referrals .PointStatus h5 {
     color: #0fc796
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single.Credited .PointStatus h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single.Credited .PointStatus h5 {
     color: #0fc796
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single.Redeemed .PointStatus h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single.Redeemed .PointStatus h5 {
     color: #db5050
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate h5 {
     padding: 0;
     margin: 0;
     font-size: 20px;
@@ -5335,7 +5335,7 @@ header .NavLink ul li a.Contact:hover {
     white-space: nowrap
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate p {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .ReferalNameDate p {
     padding: 0;
     margin: 0;
     font-size: 10px;
@@ -5346,11 +5346,11 @@ header .NavLink ul li a.Contact:hover {
     white-space: nowrap
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .PointStatus {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .PointStatus {
     text-align: right
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .PointStatus h5 {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .PointStatus h5 {
     padding: 0;
     margin: 0;
     font-size: 24px;
@@ -5361,7 +5361,7 @@ header .NavLink ul li a.Contact:hover {
     white-space: nowrap
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .AvailableHistory .History .HistoryView .Single .PointStatus p {
+.MyBookingSection .MyBookingView .MakeOverPoint .AvailableHistory .History .HistoryView .Single .PointStatus p {
     padding: 0;
     margin: 0;
     font-size: 12px;
@@ -5372,23 +5372,23 @@ header .NavLink ul li a.Contact:hover {
     white-space: nowrap
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ {
     height: 100%;
     overflow: auto
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card {
     background-color: transparent;
     border-color: transparent
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header {
     background-color: transparent;
     border-color: transparent;
     padding: 0
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header a {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header a {
     color: #f0f0f0;
     padding: 0;
     border-bottom: 1px solid transparent;
@@ -5402,15 +5402,15 @@ header .NavLink ul li a.Contact:hover {
     transition: .3s
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header a.collapsed {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header a.collapsed {
     border-bottom-color: #4d4d4d
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header a.collapsed::before {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header a.collapsed::before {
     transform: translate(0, -50%) rotate(180deg)
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-header a::before {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-header a::before {
     content: "";
     position: absolute;
     right: 0;
@@ -5424,24 +5424,24 @@ header .NavLink ul li a.Contact:hover {
     transition: .3s
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body {
     padding: 0
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body p {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body p {
     color: #a7a7a7;
     font-size: 14px;
     font-weight: 300
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body ul li {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body ul li {
     color: #a7a7a7;
     font-size: 14px;
     font-weight: 300;
     margin-bottom: 15px
 }
 
-.MyBookingSection .MyBookingView .ZoyleePoint .FAQ #ZoyleePointFAQ .card .card-body h6 {
+.MyBookingSection .MyBookingView .MakeOverPoint .FAQ #MakeOverPointFAQ .card .card-body h6 {
     color: #a7a7a7;
     font-size: 14px;
     font-weight: 400
@@ -8540,7 +8540,7 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     margin-top: 141px
 }
 
-.zoyleeBusiness .background {
+.MakeOverBusiness .background {
     background: transparent linear-gradient(180deg, rgba(29, 29, 29, 0.5764705882) 0%, rgba(26, 26, 26, 0) 100%) 0% 0% no-repeat padding-box;
     background-color: #325b45;
 
@@ -8548,50 +8548,50 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     padding: 68px 40px
 }
 
-.zoyleeBusiness .Heading {
+.MakeOverBusiness .Heading {
     border-bottom: 2px solid #898989;
     padding-bottom: 30px;
     margin-bottom: 70px
 }
 
-.zoyleeBusiness .Heading .row {
+.MakeOverBusiness .Heading .row {
     vertical-align: middle;
     align-items: center
 }
 
-.zoyleeBusiness .Heading .row .Title {
+.MakeOverBusiness .Heading .row .Title {
     width: 40%
 }
 
-.zoyleeBusiness .Heading .row .Title h4 {
+.MakeOverBusiness .Heading .row .Title h4 {
     font-size: 25px;
     line-height: 42px;
     color: #a7a7a7
 }
 
-.zoyleeBusiness .Heading .row .Title h5 {
+.MakeOverBusiness .Heading .row .Title h5 {
     font-weight: 200;
     font-size: 25px;
     letter-spacing: 19.25px;
     color: #fff
 }
 
-.zoyleeBusiness .Heading .row .Tab {
+.MakeOverBusiness .Heading .row .Tab {
     width: 60%
 }
 
-.zoyleeBusiness .Heading .row .Tab ul {
+.MakeOverBusiness .Heading .row .Tab ul {
     border: none;
     width: -moz-max-content;
     width: max-content;
     /* margin-left: auto */
 }
 
-.zoyleeBusiness .Heading .row .Tab ul li {
+.MakeOverBusiness .Heading .row .Tab ul li {
     margin-left: 60px
 }
 
-.zoyleeBusiness .Heading .row .Tab ul li a {
+.MakeOverBusiness .Heading .row .Tab ul li a {
     font-size: 25px;
     line-height: 22px;
     font-weight: 700;
@@ -8599,12 +8599,12 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     color: #8e8e8e
 }
 
-.zoyleeBusiness .Heading .row .Tab ul li a.active {
+.MakeOverBusiness .Heading .row .Tab ul li a.active {
     color: #fee3a6;
     background-color: transparent
 }
 
-.zoyleeBusiness .TabView #forsaloons .getRegistered {
+.MakeOverBusiness .TabView #forsaloons .getRegistered {
     transform: translate(-100vw, 0);
     animation: getRegistered 1s
 }
@@ -8632,11 +8632,11 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     }
 }
 
-.zoyleeBusiness .TabView #forsaloons.active .getRegistered {
+.MakeOverBusiness .TabView #forsaloons.active .getRegistered {
     transform: translate(0%, 0)
 }
 
-.zoyleeBusiness .TabView #forArtists .getRegistered {
+.MakeOverBusiness .TabView #forArtists .getRegistered {
     transform: translate(100vw, 0);
     animation: forArtists 1s
 }
@@ -8664,7 +8664,7 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     }
 }
 
-.zoyleeBusiness .TabView #forArtists .getRegistered .image {
+.MakeOverBusiness .TabView #forArtists .getRegistered .image {
     animation: forArtist 1s
 }
 
@@ -8686,17 +8686,17 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     }
 }
 
-.zoyleeBusiness .TabView #forArtists.active .getRegistered {
+.MakeOverBusiness .TabView #forArtists.active .getRegistered {
     transform: translate(0%, 0)
 }
 
-.zoyleeBusiness .TabView .getRegistered {
+.MakeOverBusiness .TabView .getRegistered {
     background: #fff;
     border-radius: 15px;
     overflow: hidden
 }
 
-.zoyleeBusiness .TabView .getRegistered .row {
+.MakeOverBusiness .TabView .getRegistered .row {
     justify-content: center;
     vertical-align: middle;
     display: flex;
@@ -8704,11 +8704,11 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     height: 100%
 }
 
-.zoyleeBusiness .TabView .getRegistered .text {
+.MakeOverBusiness .TabView .getRegistered .text {
     padding: 30px
 }
 
-.zoyleeBusiness .TabView .getRegistered .text h4 {
+.MakeOverBusiness .TabView .getRegistered .text h4 {
     font-size: 25px;
     line-height: 23px;
     color: #000;
@@ -8716,13 +8716,13 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     margin-bottom: 18px
 }
 
-.zoyleeBusiness .TabView .getRegistered .text p {
+.MakeOverBusiness .TabView .getRegistered .text p {
     font-size: 16px;
     line-height: 23px;
     color: #5a5a5a
 }
 
-.zoyleeBusiness .TabView .getRegistered .text button {
+.MakeOverBusiness .TabView .getRegistered .text button {
     margin-top: 60px;
     width: 211px;
     height: 43px;
@@ -8734,13 +8734,13 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     line-height: 18px
 }
 
-.zoyleeBusiness .TabView .getRegistered .text button:hover {
+.MakeOverBusiness .TabView .getRegistered .text button:hover {
     border: 1px solid #bababa;
     color: #fee3a6
 }
 
-.zoyleeBusiness .TabView .getRegistered .text form input,
-.zoyleeBusiness .TabView .getRegistered .text form select {
+.MakeOverBusiness .TabView .getRegistered .text form input,
+.MakeOverBusiness .TabView .getRegistered .text form select {
     border: none;
     width: 100%;
     border-bottom: 1px solid #898989;
@@ -8751,23 +8751,23 @@ body .service-listing-parent .services .service-boxes-container .service-boxes .
     margin-bottom: 20px
 }
 
-.zoyleeBusiness .TabView .getRegistered .text form input:last-child,
-.zoyleeBusiness .TabView .getRegistered .text form select:last-child {
+.MakeOverBusiness .TabView .getRegistered .text form input:last-child,
+.MakeOverBusiness .TabView .getRegistered .text form select:last-child {
     margin-bottom: 0
 }
 
-.zoyleeBusiness .TabView .getRegistered .text form input:focus,
-.zoyleeBusiness .TabView .getRegistered .text form select:focus {
+.MakeOverBusiness .TabView .getRegistered .text form input:focus,
+.MakeOverBusiness .TabView .getRegistered .text form select:focus {
     box-shadow: none;
     outline: none
 }
 
-.zoyleeBusiness .TabView .getRegistered .text form button {
+.MakeOverBusiness .TabView .getRegistered .text form button {
     width: 123px;
     margin-top: 30px
 }
 
-.zoyleeBusiness .TabView .getRegistered .image {
+.MakeOverBusiness .TabView .getRegistered .image {
     min-height: 492px;
     width: 100%;
     background-size: cover
@@ -9245,7 +9245,7 @@ footer .downloadSocial {
     margin-left: 121.36px
 }
 
-footer .downloadSocial .downloadZoylee {
+footer .downloadSocial .downloadMakeOver {
     position: relative;
     width: 100%;
     height: 51px;
@@ -9255,7 +9255,7 @@ footer .downloadSocial .downloadZoylee {
     padding: 0 20px
 }
 
-footer .downloadSocial .downloadZoylee p {
+footer .downloadSocial .downloadMakeOver p {
     display: flex;
     vertical-align: middle;
     align-items: center;
@@ -9268,19 +9268,19 @@ footer .downloadSocial .downloadZoylee p {
     font-weight: 300
 }
 
-footer .downloadSocial .downloadZoylee p span {
+footer .downloadSocial .downloadMakeOver p span {
     position: relative
 }
 
-footer .downloadSocial .downloadZoylee p span a {
+footer .downloadSocial .downloadMakeOver p span a {
     margin-left: 30px
 }
 
-footer .downloadSocial .downloadZoylee p span a:first-child {
+footer .downloadSocial .downloadMakeOver p span a:first-child {
     margin-left: 0
 }
 
-footer .downloadSocial .downloadZoylee p span::before {
+footer .downloadSocial .downloadMakeOver p span::before {
     content: "";
     position: absolute;
     top: 50%;

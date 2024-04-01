@@ -82,11 +82,11 @@ $(".CloseSearch").click(function() {
     $(".SearchLocation").removeClass("Open");
     $("body").removeClass("PopupOpen");
 });
-$("#searchzoyleeathome").click(function() {
-    $(".SearchResult .SelectServiceVanue").addClass("SearchZoyleeatHome");
+$("#searchMakeOverathome").click(function() {
+    $(".SearchResult .SelectServiceVanue").addClass("SearchMakeOveratHome");
 });
 $("#Searchsalon").click(function() {
-    $(".SearchResult .SelectServiceVanue").removeClass("SearchZoyleeatHome");
+    $(".SearchResult .SelectServiceVanue").removeClass("SearchMakeOveratHome");
 });
 $("#user-location").click(function() {
     $(".location-menu").addClass("Open");
